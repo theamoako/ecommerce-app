@@ -17,33 +17,7 @@ const Homescreenpic = () => {
             </div>   
          </div>
         </div>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <br></br>
-        <br></br>
-
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <br></br>
-        <br></br>
-        <br></br>
-
-        <br></br>
-        <br></br>
-        <br></br>
-        <div className="items2">
-            <h1>div</h1>
-        </div>
+      
         </div>
     );
 }
