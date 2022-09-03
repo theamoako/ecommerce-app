@@ -2,6 +2,7 @@ import React from "react";
 import '../App.css';
 import background from '../images/IMG_4946.JPG';
 
+
 const Homescreenpic = () => {
     return (
         <div className="onboardscreen" >
@@ -17,7 +18,7 @@ const Homescreenpic = () => {
             </div>   
          </div>
         </div>
-      
+        
         </div>
     );
 }
