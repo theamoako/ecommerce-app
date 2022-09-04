@@ -8,7 +8,7 @@ const Buyitems = () => {
         <div className="items" align="center">
             <div className="header" align="center">
             <div className="items2">
-            <h1>Items to</h1>
+            <h1>Items to buy</h1>
             </div>
         </div>
             </div>   
