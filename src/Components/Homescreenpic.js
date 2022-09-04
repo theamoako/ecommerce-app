@@ -1,6 +1,7 @@
 import React from "react";
 import '../App.css';
 import background from '../images/IMG_4946.JPG';
+import Buyitems from "./Buyitems";
 
 
 const Homescreenpic = () => {
@@ -14,7 +15,7 @@ const Homescreenpic = () => {
            </div>
          <div className="items" align="center">
             <div className="header" align="center">
-           
+               <Buyitems />
             </div>   
          </div>
         </div>
