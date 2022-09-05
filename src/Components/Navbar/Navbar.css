@@ -2,5 +2,10 @@
  padding: 1rem;
  background-color: #282c34;
  color: white;
- height: 30px;
+ height: 45px;
+ 
+}
+
+.h1{
+    margin-bottom: 7px;
 }
