@@ -10,11 +10,11 @@ const Onboardslide = () => {
         <div className="onboardscreen" >
      <div className="onboard" >
         <img src={background} alt="onboardsceenpic" className="pic"/> 
-      <div className="items" align="center">
+        <div className="items" align="center">
          <div className="header" align="center">
          <div className="head1"><h1 className="head">E-FOUNTAIN</h1></div>
           <div className="slogan">Place to buy and sell</div>
-         </div>
+         </div>   
          <br></br>
          <br></br>
          <br></br>

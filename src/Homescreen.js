@@ -9,7 +9,6 @@ const Homescreen = () => {
         <div>
             <Homescreenpic />
             </div>
-            <Buyitems />
         
        </div>
     );
