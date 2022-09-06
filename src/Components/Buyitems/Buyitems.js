@@ -3,7 +3,7 @@ import React from 'react';
 const Buyitems = () => {
     return (
        <header>
-        <h1>
+        <h1 className=''>
             E-fountain
         </h1>
        </header>
