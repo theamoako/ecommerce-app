@@ -2,7 +2,10 @@
  padding: 1rem;
  background-color: #282c34;
  color: white;
- height: 45px;
+ display: flex;
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
  
 }
 
