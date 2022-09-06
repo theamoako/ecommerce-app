@@ -3,7 +3,7 @@ import './Buyitems.css'
 
 const Buyitems = () => {
     return (
-       <header>
+       <header className='headercont'>
         <h1 className='head'>
             E-fountain
         </h1>
