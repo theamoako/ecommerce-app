@@ -1,4 +1,5 @@
 import React from 'react';
+import './Buyitems.css'
 
 const Buyitems = () => {
     return (
