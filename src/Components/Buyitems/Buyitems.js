@@ -5,7 +5,7 @@ const Buyitems = () => {
     return (
        <header className='headercont'>
         <h1 className='head'>
-            ITEMS AVAILABL
+            ITEMS AVAILABLE
         </h1>
        </header>
     );
