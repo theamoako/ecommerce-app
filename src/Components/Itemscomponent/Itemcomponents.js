@@ -1,5 +1,6 @@
 import React from "react";
 import test from '.../images/headphones.jpg'
+import './Itemcomponents.css'
 
 const Itemscomponent = () => {
     return (
