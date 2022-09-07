@@ -1,21 +1,21 @@
 import React from "react";
-import test from '.../images/headphones.jpg'
-import './Itemcomponents.css'
+import background from './images/shoe.jpg';
+import './Itemcomponent.css';
 
 const Itemscomponent = () => {
     return (
-        <div className="movie" key={imdbID}>
+        <div className="movie">
           <div>
             <p>2018</p>
           </div>
     
           <div>
-            <img src={test} alt={Title} />
+            <img src={background} alt='test' />
           </div>
     
           <div>
-            <span>45</span>
-            <h3>phone</h3>
+            <span>nike</span>
+            <h3>Airmax</h3>
           </div>
         </div>
       );
