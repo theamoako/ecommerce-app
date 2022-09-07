@@ -1,6 +1,6 @@
 import './App.css';
 import Homescreenpic from './Components/Homescreenpic.js';
-import itemcomponents from './Components/itemcomponents';
+import itemcomponents from './Components/Itemcomponents';
 import Buyitems from "./Components/Buyitems/Buyitems";
 import Bottomnav from './Components/Bottomnav/Bottomnav';
 
